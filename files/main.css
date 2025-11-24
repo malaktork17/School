@@ -1,12 +1,4 @@
 
-
-
-
-
-
-
-
-
 /* =======================
    Variables
 ======================= */
@@ -609,4 +601,12 @@ img.quote-image {
     margin-right: -83px;
     margin-left: -83px;
 }
+ a.logo {
+    left:29%;
+    top:78%;
+ }
+   .des{
+   font-size:18px;
+   }
+
 }
